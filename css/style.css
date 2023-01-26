@@ -485,7 +485,7 @@ header .site-branding .site-title a {
   display: inline-block;
   color: #fff;
   font-weight: bolder;
-  background-color: #f03838;
+  background-color: #df3120;
   line-height: 3rem;
   height: 3rem;
   padding: 0 1rem;
@@ -515,7 +515,7 @@ header .site-navigation ul li {
 }
 header .site-navigation ul li a {
   display: block;
-  color: #f03838;
+  color: #df3120;
   font-size: 1.6rem;
   line-height: 2rem;
   padding: 0 1rem;
@@ -525,7 +525,7 @@ article {
   padding: 8rem 0;
 }
 article a {
-  color: #f03838;
+  color: #df3120;
 }
 article:not(:first-child):before {
   content: '';
@@ -541,7 +541,7 @@ article blockquote {
   margin: 6rem 2rem;
   padding-left: 15px;
   line-height: 2rem;
-  border-left: 4px solid #f03838;
+  border-left: 4px solid #df3120;
 }
 article .article-title {
   position: relative;
@@ -570,8 +570,8 @@ article .article-title a:hover span {
 }
 article .article-top-meta {
   position: relative;
-  color: #9e9e9e;
-  font-size: 1.3rem;
+  color: #df3120;
+  font-size: 1.5rem;
   text-align: center;
   margin: 1rem 0;
 }
@@ -579,13 +579,13 @@ article .article-top-meta span {
   margin: 0 0.5rem;
 }
 article .article-top-meta a {
-  color: #9e9e9e;
+  color: #df3120;
 }
 article .article-top-meta a:hover {
-  color: #f03838;
+  color: #df3120;
 }
 article .article-top-meta a time {
-  font-style: italic;
+  font-style: normal;
 }
 article .article-excerpt,
 article .article-content,
@@ -630,22 +630,22 @@ article .article-footer .article-meta > span > span {
   vertical-align: middle;
 }
 article .article-footer .article-meta {
-  font-size: 1.3rem;
-  color: #9e9e9e;
+  font-size: 1.5rem;
+  color: #df3120;
 }
 article .article-footer .article-meta a {
-  color: #9e9e9e;
+  color: #df3120;
 }
 article .article-footer .article-meta a:hover {
-  color: #f03838;
+  color: #df3120;
 }
 article .article-footer .article-meta i {
   vertical-align: middle;
-  color: #9e9e9e;
+  color: #df3120;
   margin-right: 0.5rem;
 }
 article .article-footer .post-tags a:before {
-  content: "#";
+  content: "● ";
 }
 article .article-footer .post-tags a:not(:last-of-type):after {
   content: ",";
@@ -833,7 +833,7 @@ article .tags-cloud a {
 }
 article .archive-tags a:hover,
 article .tags-cloud a:hover {
-  color: #f03838;
+  color: #df3120;
 }
 article .archive-tags i,
 article .tags-cloud i {
@@ -928,9 +928,9 @@ article .categories-cloud .post-categories a:not(:last-of-type):after {
 }
 .pagination .pagination-prev,
 .pagination .pagination-next {
-  color: #f03838;
+  color: #df3120;
   font-size: 1.6rem;
-  border: 1px solid #e0e0e0;
+  border: 2px solid #df3120;
   line-height: 30px;
   height: 32px;
   padding: 0 20px;
@@ -941,20 +941,20 @@ article .categories-cloud .post-categories a:not(:last-of-type):after {
 .pagination .pagination-prev:hover,
 .pagination .pagination-next:hover {
   color: #fff;
-  background-color: #f03838;
-  border-color: #f03838;
+  background-color: #df3120;
+  border-color: #df3120;
 }
 @media (prefers-color-scheme: dark) {
   .pagination .pagination-prev,
   .pagination .pagination-next {
-    color: #f03838;
+    color: #df3120;
     border: 1px solid #636366;
   }
   .pagination .pagination-prev:hover,
   .pagination .pagination-next:hover {
     color: #000;
-    background-color: #f03838;
-    border-color: #f03838;
+    background-color: #df3120;
+    border-color: #df3120;
   }
 }
 footer.site-footer {
@@ -965,7 +965,7 @@ footer.site-footer {
   color: #9e9e9e;
 }
 footer.site-footer a {
-  color: #f03838;
+  color: #df3120;
 }
 footer.site-footer .site-info {
   color: #9e9e9e;
