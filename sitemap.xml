@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zhaolife.com/2024/01/14/2024goals/</loc>
+    <loc>http://zhaolife.com/2013/08/21/wuhan/</loc>
     
     <lastmod>2024-01-14</lastmod>
     
@@ -13,7 +13,7 @@
   <url>
     <loc>http://zhaolife.com/2017/03/26/workflow/</loc>
     
-    <lastmod>2023-09-17</lastmod>
+    <lastmod>2024-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>http://zhaolife.com/2014/05/12/shawan/</loc>
     
-    <lastmod>2023-09-17</lastmod>
+    <lastmod>2024-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>http://zhaolife.com/2023/02/09/luzaihefang/</loc>
     
-    <lastmod>2023-09-17</lastmod>
+    <lastmod>2024-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>http://zhaolife.com/2015/07/11/ios9/</loc>
     
-    <lastmod>2023-09-17</lastmod>
+    <lastmod>2024-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>http://zhaolife.com/2013/11/25/fenghuang/</loc>
     
-    <lastmod>2023-09-17</lastmod>
+    <lastmod>2024-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
   <url>
     <loc>http://zhaolife.com/2023/05/21/chatgpt/</loc>
     
-    <lastmod>2023-09-17</lastmod>
+    <lastmod>2024-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
   <url>
     <loc>http://zhaolife.com/2023/01/27/2023huashi/</loc>
     
-    <lastmod>2023-09-17</lastmod>
+    <lastmod>2024-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,16 @@
   <url>
     <loc>http://zhaolife.com/2016/09/06/190hk/</loc>
     
-    <lastmod>2023-09-17</lastmod>
+    <lastmod>2024-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhaolife.com/2024/01/14/2024goals/</loc>
+    
+    <lastmod>2024-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -138,15 +147,6 @@
   
   <url>
     <loc>http://zhaolife.com/2015/05/31/hexo/</loc>
-    
-    <lastmod>2023-01-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhaolife.com/2013/08/21/wuhan/</loc>
     
     <lastmod>2023-01-25</lastmod>
     
